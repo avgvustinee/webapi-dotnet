@@ -1,0 +1,6 @@
+@entryapi_HostAddress = http://localhost:5124
+
+GET {{entryapi_HostAddress}}/api/stock
+Accept: application/json
+
+###

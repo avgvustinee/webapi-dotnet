@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7MdwhFw1PlJ6+fC6e3dDMZE36lBoe+bi8bUQIS0XAOY=",
+  "Source": "entryapi",
+  "BasePath": "_content/entryapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
